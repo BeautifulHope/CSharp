@@ -1,0 +1,1 @@
+G:\C#学习\SimonGame\SimonGame\Simon2\bin\Debug\Simon2.exe.config

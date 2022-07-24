@@ -1,0 +1,14 @@
+G:\C#学习\SimonGame\Simon2\bin\Debug\Simon2.exe.config
+G:\C#学习\SimonGame\Simon2\bin\Debug\Simon2.exe
+G:\C#学习\SimonGame\Simon2\bin\Debug\Simon2.pdb
+G:\C#学习\SimonGame\Simon2\bin\Debug\MyLED.dll
+G:\C#学习\SimonGame\Simon2\bin\Debug\MyLED.pdb
+G:\C#学习\SimonGame\Simon2\obj\Debug\Simon.csprojResolveAssemblyReference.cache
+G:\C#学习\SimonGame\Simon2\obj\Debug\Simon2.Form1.resources
+G:\C#学习\SimonGame\Simon2\obj\Debug\Simon2.Properties.Resources.resources
+G:\C#学习\SimonGame\Simon2\obj\Debug\Simon.csproj.GenerateResource.Cache
+G:\C#学习\SimonGame\Simon2\obj\Debug\Simon2.exe
+G:\C#学习\SimonGame\Simon2\obj\Debug\Simon2.pdb
+G:\C#学习\GitUpload\CSharp\SimonGame\Simon\bin\Debug\Simon2.exe.config
+G:\C#学习\GitUpload\CSharp\SimonGame\Simon\obj\Debug\Simon2.exe
+G:\C#学习\GitUpload\CSharp\SimonGame\Simon\obj\Debug\Simon2.pdb

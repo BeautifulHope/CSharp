@@ -1,0 +1,7 @@
+G:\C#学习\SimonGame\MyLED\bin\Debug\MyLED.dll
+G:\C#学习\SimonGame\MyLED\bin\Debug\MyLED.pdb
+G:\C#学习\SimonGame\MyLED\obj\Debug\MyLED.MyLED.resources
+G:\C#学习\SimonGame\MyLED\obj\Debug\MyLED.csproj.GenerateResource.Cache
+G:\C#学习\SimonGame\MyLED\obj\Debug\MyLED.dll
+G:\C#学习\SimonGame\MyLED\obj\Debug\MyLED.pdb
+G:\C#学习\SimonGame\MyLED\obj\Debug\MyLED.Form1.resources
