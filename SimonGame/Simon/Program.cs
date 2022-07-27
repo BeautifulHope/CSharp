@@ -16,7 +16,13 @@ namespace Simon2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            //Application.Run(new Simon());
+            //Application.Run(new Login());
+            Login login = new Login();
+            if (login.ShowDialog() == DialogResult.OK)
+            {
+                Application.Run(new Simon());
+            }
         }
     }
 }
