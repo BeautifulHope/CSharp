@@ -1,0 +1,7 @@
+G:\C#学习\GitUpload\CSharp\SimonGame\MyLED\bin\Release\MyLED.dll
+G:\C#学习\GitUpload\CSharp\SimonGame\MyLED\bin\Release\MyLED.pdb
+G:\C#学习\GitUpload\CSharp\SimonGame\MyLED\obj\Release\MyLED.Form1.resources
+G:\C#学习\GitUpload\CSharp\SimonGame\MyLED\obj\Release\MyLED.MyLED.resources
+G:\C#学习\GitUpload\CSharp\SimonGame\MyLED\obj\Release\MyLED.csproj.GenerateResource.Cache
+G:\C#学习\GitUpload\CSharp\SimonGame\MyLED\obj\Release\MyLED.dll
+G:\C#学习\GitUpload\CSharp\SimonGame\MyLED\obj\Release\MyLED.pdb

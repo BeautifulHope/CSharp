@@ -29,3 +29,4 @@ G:\C#学习\GitUpload\CSharp\SimonGame\Simon\bin\Debug\System.Data.SQLite.Linq.d
 G:\C#学习\GitUpload\CSharp\SimonGame\Simon\bin\Debug\EntityFramework.xml
 G:\C#学习\GitUpload\CSharp\SimonGame\Simon\bin\Debug\EntityFramework.SqlServer.xml
 G:\C#学习\GitUpload\CSharp\SimonGame\Simon\bin\Debug\System.Data.SQLite.xml
+G:\C#学习\GitUpload\CSharp\SimonGame\Simon\obj\Debug\Simon2.AddUser.resources

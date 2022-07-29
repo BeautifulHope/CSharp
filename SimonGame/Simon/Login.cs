@@ -12,8 +12,6 @@ namespace Simon2
 {
     public partial class Login : Form
     {
-        string username = "13191243969";
-        string password = "asdzxc";
 
         public Login()
         {
@@ -25,7 +23,7 @@ namespace Simon2
 
             if (this.textBox_username.Text.Length > 0)
             {
-                string strSql = String.Format("select * from person where name = {0}", this.textBox_username.Text);
+                string strSql = String.Format("select password from person where name = '{0}'", this.textBox_username.Text);
                 Console.WriteLine("command:{0}", strSql);
 
                 DataSet ds = SQLiteHelper.ExecuteQuery(strSql);
@@ -36,10 +34,19 @@ namespace Simon2
                     {
                         for (int j = 0; j < ds.Tables[0].Columns.Count; j++)
                         {
-                            Console.WriteLine(ds.Tables[0].Rows[i][j].ToString());
+                            Console.WriteLine("{0}-{1}:{2}",i,j,ds.Tables[0].Rows[i][j].ToString());
                         }
                     }
 
+                    if (this.textBox_password.Text == ds.Tables[0].Rows[0][0].ToString())
+                    {
+                        Console.WriteLine("Login Success!");
+                        this.DialogResult = DialogResult.OK;
+                    }
+                    else
+                    {
+                        MessageBox.Show("password wrong!", "ERROR");
+                    }
 
                     dataGridView1.DataSource = ds.Tables[0];
                 }
@@ -69,7 +76,9 @@ namespace Simon2
 
         private void button_quit_Click(object sender, EventArgs e)
         {
-            this.Close();
+            AddUser adduser = new AddUser();
+            adduser.ShowDialog();
+            //this.Close();
         }
     }
 }

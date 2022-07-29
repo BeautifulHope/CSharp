@@ -18,6 +18,9 @@ namespace Simon2
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new Simon());
             //Application.Run(new Login());
+            //Application.Run(new AddUser());
+
+
             Login login = new Login();
             if (login.ShowDialog() == DialogResult.OK)
             {

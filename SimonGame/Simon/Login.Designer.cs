@@ -33,7 +33,7 @@
             this.Password = new System.Windows.Forms.Label();
             this.textBox_password = new System.Windows.Forms.TextBox();
             this.button_login = new System.Windows.Forms.Button();
-            this.button_quit = new System.Windows.Forms.Button();
+            this.button_add = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -80,15 +80,15 @@
             this.button_login.UseVisualStyleBackColor = true;
             this.button_login.Click += new System.EventHandler(this.button_login_Click);
             // 
-            // button_quit
+            // button_add
             // 
-            this.button_quit.Location = new System.Drawing.Point(228, 167);
-            this.button_quit.Name = "button_quit";
-            this.button_quit.Size = new System.Drawing.Size(75, 23);
-            this.button_quit.TabIndex = 2;
-            this.button_quit.Text = "quit";
-            this.button_quit.UseVisualStyleBackColor = true;
-            this.button_quit.Click += new System.EventHandler(this.button_quit_Click);
+            this.button_add.Location = new System.Drawing.Point(228, 167);
+            this.button_add.Name = "button_add";
+            this.button_add.Size = new System.Drawing.Size(75, 23);
+            this.button_add.TabIndex = 2;
+            this.button_add.Text = "add";
+            this.button_add.UseVisualStyleBackColor = true;
+            this.button_add.Click += new System.EventHandler(this.button_quit_Click);
             // 
             // dataGridView1
             // 
@@ -105,7 +105,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(442, 573);
             this.Controls.Add(this.dataGridView1);
-            this.Controls.Add(this.button_quit);
+            this.Controls.Add(this.button_add);
             this.Controls.Add(this.button_login);
             this.Controls.Add(this.textBox_password);
             this.Controls.Add(this.Password);
@@ -126,7 +126,7 @@
         private System.Windows.Forms.Label Password;
         private System.Windows.Forms.TextBox textBox_password;
         private System.Windows.Forms.Button button_login;
-        private System.Windows.Forms.Button button_quit;
+        private System.Windows.Forms.Button button_add;
         private System.Windows.Forms.DataGridView dataGridView1;
     }
 }
