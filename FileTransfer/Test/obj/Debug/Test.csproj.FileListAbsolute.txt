@@ -1,0 +1,6 @@
+G:\C#学习\FileTransfer\Test\bin\Debug\Test.exe.config
+G:\C#学习\FileTransfer\Test\bin\Debug\Test.exe
+G:\C#学习\FileTransfer\Test\bin\Debug\Test.pdb
+G:\C#学习\FileTransfer\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+G:\C#学习\FileTransfer\Test\obj\Debug\Test.exe
+G:\C#学习\FileTransfer\Test\obj\Debug\Test.pdb
