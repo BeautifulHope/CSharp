@@ -15,6 +15,24 @@ namespace FileTransfer
     class function
     {
         /// <summary>
+        /// 获得指定路径下所有文件和子文件夹
+        /// </summary>
+        public static void delteDirectoryAndFile(string targetPath)
+        {
+            System.IO.DirectoryInfo di = new DirectoryInfo(targetPath);
+            foreach (FileInfo file in di.GetFiles())
+            {
+                file.Delete();
+            }
+            foreach (DirectoryInfo dir in di.GetDirectories())
+            {
+                dir.Delete(true);
+            }
+            di.Delete(true);
+        }
+
+
+        /// <summary>
         /// 获得指定路径下所有文件名
         /// </summary>
         /// <param name="sw">文件写入流</param>
