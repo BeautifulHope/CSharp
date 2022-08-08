@@ -21,12 +21,25 @@ namespace FileTransfer
             InitializeComponent();
             Console.WriteLine(DateTime.Now.ToString("yyyy-MM-dd HHmmss"));
 
-            System.Threading.Timer timer = new System.Threading.Timer((state) => 
-            {
-                state += $"任务线程:{Thread.CurrentThread.ManagedThreadId} " + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss") + " isThreadPool:" + Thread.CurrentThread.IsThreadPoolThread;
-                Console.WriteLine(state);
-                Console.WriteLine(PathAndIni.filePath);
-            }, "", 5000, 1000);
+            //System.Threading.Timer timer = new System.Threading.Timer((state) => 
+            //{
+            //    state += $"任务线程:{Thread.CurrentThread.ManagedThreadId} " + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss") + " isThreadPool:" + Thread.CurrentThread.IsThreadPoolThread;
+            //    Console.WriteLine(state);
+            //    Console.WriteLine(PathAndIni.filePath);
+            //}, "", 5000, 1000);
+
+            System.Timers.Timer t = new System.Timers.Timer(10000);
+            t.Elapsed += new System.Timers.ElapsedEventHandler(handle_PeocessZip);
+            t.AutoReset = true;
+            t.Enabled = true;
+            t.Start();
+
+        }
+
+        public void handle_PeocessZip(object source,System.Timers.ElapsedEventArgs e)
+        {
+            LogHelper.Info("=============start=============");
+            function.ZipAndMove();
 
         }
 

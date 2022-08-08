@@ -142,7 +142,7 @@ namespace FileTransfer
 
             //创建目标文件夹
 
-            string pathString = 
+            string pathString = @"G:\TestReport";
 
             if (!System.IO.File.Exists(pathString))
             {
