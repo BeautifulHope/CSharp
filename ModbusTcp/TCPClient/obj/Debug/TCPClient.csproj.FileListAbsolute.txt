@@ -1,0 +1,8 @@
+G:\C#学习\GitUpload\CSharp\TCPClient\bin\Debug\TCPClient.exe.config
+G:\C#学习\GitUpload\CSharp\TCPClient\bin\Debug\TCPClient.exe
+G:\C#学习\GitUpload\CSharp\TCPClient\bin\Debug\TCPClient.pdb
+G:\C#学习\GitUpload\CSharp\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+G:\C#学习\GitUpload\CSharp\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.Cache
+G:\C#学习\GitUpload\CSharp\TCPClient\obj\Debug\TCPClient.exe
+G:\C#学习\GitUpload\CSharp\TCPClient\obj\Debug\TCPClient.pdb
+G:\C#学习\GitUpload\CSharp\TCPClient\obj\Debug\TCPClient.Client.resources

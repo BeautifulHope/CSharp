@@ -1,0 +1,9 @@
+G:\C#学习\GitUpload\CSharp\ModbusTcp\TCPServer\bin\Debug\TCPServer.exe.config
+G:\C#学习\GitUpload\CSharp\ModbusTcp\TCPServer\bin\Debug\TCPServer.exe
+G:\C#学习\GitUpload\CSharp\ModbusTcp\TCPServer\bin\Debug\TCPServer.pdb
+G:\C#学习\GitUpload\CSharp\ModbusTcp\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+G:\C#学习\GitUpload\CSharp\ModbusTcp\TCPServer\obj\Debug\TCPServer.Server.resources
+G:\C#学习\GitUpload\CSharp\ModbusTcp\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.Cache
+G:\C#学习\GitUpload\CSharp\ModbusTcp\TCPServer\obj\Debug\TCPServer.exe
+G:\C#学习\GitUpload\CSharp\ModbusTcp\TCPServer\obj\Debug\TCPServer.pdb
+G:\C#学习\GitUpload\CSharp\ModbusTcp\TCPServer\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache

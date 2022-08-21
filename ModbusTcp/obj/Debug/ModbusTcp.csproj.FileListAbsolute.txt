@@ -1,0 +1,10 @@
+G:\C#学习\GitUpload\CSharp\ModbusTcp\bin\Debug\ModbusTcp.exe.config
+G:\C#学习\GitUpload\CSharp\ModbusTcp\bin\Debug\ModbusTcp.exe
+G:\C#学习\GitUpload\CSharp\ModbusTcp\bin\Debug\ModbusTcp.pdb
+G:\C#学习\GitUpload\CSharp\ModbusTcp\bin\Debug\EasyModbus.dll
+G:\C#学习\GitUpload\CSharp\ModbusTcp\bin\Debug\EasyModbus.xml
+G:\C#学习\GitUpload\CSharp\ModbusTcp\obj\Debug\ModbusTcp.csprojResolveAssemblyReference.cache
+G:\C#学习\GitUpload\CSharp\ModbusTcp\obj\Debug\ModbusTcp.Properties.Resources.resources
+G:\C#学习\GitUpload\CSharp\ModbusTcp\obj\Debug\ModbusTcp.csproj.GenerateResource.Cache
+G:\C#学习\GitUpload\CSharp\ModbusTcp\obj\Debug\ModbusTcp.exe
+G:\C#学习\GitUpload\CSharp\ModbusTcp\obj\Debug\ModbusTcp.pdb
